@@ -1,0 +1,5 @@
+useDebounce
+Delay the execution of function or state update with useDebounce.
+
+appWrite
+Appwrite is an open-source backend as a service server that abstract and simplify complex and repetitive development tasks behind a very simple to use REST API.
